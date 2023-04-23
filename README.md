@@ -1,1 +1,1 @@
-# Smart-Agriculture-and-Farmer-Guide-BackEnd-SpringBoot
+# Smart-Agri-Farmer-Guide-Project
